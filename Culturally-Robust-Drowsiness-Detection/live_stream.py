@@ -18,7 +18,7 @@ from ultralytics import YOLO
 from collections import deque
 
 # ──────────────────────────────────────────────
-#  CONFIGURATION — Tweak these to your liking
+#  CONFIGURATION 
 # ──────────────────────────────────────────────
 
 MODEL_PATH       = "best.pt"
